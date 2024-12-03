@@ -27,7 +27,7 @@ const Header = ({ id }) => {
         Tu navegador no soporta audio HTML5.
       </audio>
       <div className='header__tittle'>
-        <h1 className='header__tittle__h1'>Valeri Palencia</h1>
+        <h1 className='header__tittle__h1'>Valerie Palencia</h1>
         <p className='header__tittle__p'>¡Mis 15 años!</p>
         { id && (
           <i className="header__tittle__i bx bx-chevrons-down bx-fade-down"></i>

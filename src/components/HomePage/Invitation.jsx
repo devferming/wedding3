@@ -38,7 +38,7 @@ const Invitation = ({ id }) => {
             <p className='invitation__article__p'>
               Con todo mi cariño,
             </p>
-            <p className='invitation__article__signature'>Valeri Palencia</p>
+            <p className='invitation__article__signature'>Valerie Palencia</p>
           </article>
         ) 
       }
