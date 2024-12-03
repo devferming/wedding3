@@ -1,0 +1,56 @@
+html {
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  font-weight: 100;
+  font-style: normal;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  --textLigth: 300;
+  --textMedium: 500;
+  --textBold: 700;
+
+  --textColor: #cacda5;
+  --textColor2: #4e4f3d;
+  --bgColor: #4e4f3d;
+  --bgColor2: #636851;
+}
+
+body {
+  margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+p,
+ul,
+hr,
+a {
+  margin: 0;
+}
+
+ul {
+  padding-left: 0;
+  list-style: none;
+}
+
+img {
+  display: block;
+}
+
+button,
+li,
+a {
+  cursor: pointer;
+  border: 0;
+  text-decoration: none;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+}
