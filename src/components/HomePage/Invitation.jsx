@@ -32,8 +32,11 @@ const Invitation = ({ id }) => {
             <p className='invitation__article__p'>
               La cita es este <strong>15 de diciembre de 2024</strong>, en el <strong>Club Social El Refugio</strong>, donde juntos celebraremos este nuevo capítulo en mi vida.
             </p>
+            {/* <p className='invitation__article__p'>
+              {invitationPart3} será el mayor regalo en este día tan especial. Lluvia de sobres.
+            </p> */}
             <p className='invitation__article__p'>
-              {invitationPart3} será el mayor regalo en este día tan especial. Si {invitationPart4} acompañarlo con un gesto adicional, habrá un espacio destinado para sobres.
+              Lluvia de sobres.
             </p>
             <p className='invitation__article__p'>
               Con todo mi cariño,

@@ -27,7 +27,7 @@ const Ceremony = () => {
         <div className='ceremony__article__address'>
 
           <span className='ceremony__article__address__tittle'>
-            <i className='ceremony__article__address__tittle__i bx bxs-church'></i>
+            <i className='ceremony__article__address__tittle__i bx bxs-party'></i>
             <h2 className='ceremony__article__address__tittle__h2'>Celebración</h2>
           </span>
 
@@ -50,6 +50,7 @@ const Ceremony = () => {
             <i className='ceremony__article__address__span__i bx bxs-time'></i>
             <p className='ceremony__article__address__span__p'>Hora: 08:00 PM.</p>
           </span>
+          
         </div>
       </article>
     </section>
