@@ -35,5 +35,6 @@ export const guests = {
 34:["Yennis Orozco ","Estimada",2,0],
 35:["Flia. Conrado Rosano ","Estimada",2,1],
 36:["Flia. Miranda castaño ","Estimada",2,1],
+37:["Angelly Osorio","Estimada",2,0],
 }
 
